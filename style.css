@@ -9,14 +9,14 @@ body{
     background: linear-gradient(#2af598,#22e4ac,#1bd7bb,#14c9cb, #0fbed8, #08b3e5);
     color: white;
     overflow: hidden;
-    display: flex;
+
     text-align: center;
-    flex-direction: column;
+
 }
-textarea{
-    resize: none;
+input{
     font-size: 20px;
-    letter-spacing: 1px;
+    width: 600px;
+    height: 100px;
 }
 button{
     padding: 10px;
